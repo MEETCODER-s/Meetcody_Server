@@ -29,7 +29,7 @@
 
 | 메인 페이지 | 추천 장소, 추천 시간 선택 페이지 | 약속 생성 페이지 |
 |:------:|:------:|:------:| 
-| 일정 조회 탭<br> <img src="https://user-images.githubusercontent.com/53734935/168986051-9066d06e-1c07-4734-9e65-f0a11ef97adb.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/168986014-56958a40-8c9c-45e6-9f93-4347b3079183.png" height="400"> | <img width="382" alt="무제" src="https://user-images.githubusercontent.com/53734935/169509399-3f47ab2c-49bb-423b-80c0-ab96a3158193.png"  height="400" /> |
+| 일정 조회 탭<br> <img src="https://user-images.githubusercontent.com/53734935/168986051-9066d06e-1c07-4734-9e65-f0a11ef97adb.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/168986014-56958a40-8c9c-45e6-9f93-4347b3079183.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/169509399-3f47ab2c-49bb-423b-80c0-ab96a3158193.png"  height="400" /> |
 
 <br>
 
