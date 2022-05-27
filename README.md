@@ -23,13 +23,15 @@
 
 ## ⭐️PREVIEW
 
-|구글 소셜 로그인 | 메인 페이지 | 초대 수락 페이지 | 일정 상세 확인 페이지 |
+|구글 소셜 로그인 | 메인 페이지 |  약속 생성 페이지 | 초대 수락 페이지 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://user-images.githubusercontent.com/53734935/168985728-496b8210-80af-42a9-9470-e130033d35f3.png" height="400"> | 약속 생성, 초대된 약속 확인 탭<br><img src="https://user-images.githubusercontent.com/53734935/168985906-04046097-3b94-4e43-b5ec-28a2a9a1ac9a.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/168985936-c335cef4-475f-417f-a393-4084231b67d4.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/168985982-f5e9685c-f566-4170-8c07-f7eb5158a090.png" height="400">|
+| 로그인화면 | 약속 생성, 초대된 약속 확인 탭 | 약속 생성 및<br>내 휴대폰의 연락처로 약속 공유 | 약속 주최자's 초대된 약속 수락 페이지<br>(출발장소 입력, 캘린더 권한 허용) | 
+| <img src="https://user-images.githubusercontent.com/53734935/168985728-496b8210-80af-42a9-9470-e130033d35f3.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/168985906-04046097-3b94-4e43-b5ec-28a2a9a1ac9a.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/170743533-4d471bc8-0840-4eb3-9510-077e19fe4c93.png"  height="400" /> | <img src="https://user-images.githubusercontent.com/53734935/168985936-c335cef4-475f-417f-a393-4084231b67d4.png" height="400"> |
 
-| 메인 페이지 | 추천 장소, 추천 시간 선택 페이지 | 약속 생성 페이지 |
+| 일정 상세 확인 페이지 | 추천 장소, 추천 시간 선택 페이지 | 메인 페이지 |
 |:------:|:------:|:------:| 
-| 일정 조회 탭<br> <img src="https://user-images.githubusercontent.com/53734935/168986051-9066d06e-1c07-4734-9e65-f0a11ef97adb.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/168986014-56958a40-8c9c-45e6-9f93-4347b3079183.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/169509399-3f47ab2c-49bb-423b-80c0-ab96a3158193.png"  height="400" /> |
+| 약속 내용 및 Kakao Map으로 장소 확인 | 약속 주최자's 약속 장소 추천 페이지 | 나에게 생성된 확정일정 for calendar 조회 탭 |
+| <img src="https://user-images.githubusercontent.com/53734935/168985982-f5e9685c-f566-4170-8c07-f7eb5158a090.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/168986014-56958a40-8c9c-45e6-9f93-4347b3079183.png" height="400"> | <img src="https://user-images.githubusercontent.com/53734935/168986051-9066d06e-1c07-4734-9e65-f0a11ef97adb.png" height="400"> 
 
 <br>
 
